@@ -1,6 +1,5 @@
-- 👋 Hi, I'm Pradnya Gosavi. 
-- 👀 I'm enthusiast full stack developer. 
-- 🌱 I love to code and learn new technologies.
+👋 Hi, I'm Pradnya Gosavi. I'm enthusiast full stack developer. I love to code and learn new technologies.
+
 - 📫 How to reach me gosavipradnya27@gmail.com
 
 I spend far more time than I should on open-source software, and this is where you can find it.
